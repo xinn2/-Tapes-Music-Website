@@ -40,5 +40,5 @@ Jest test: testapp.test.js
   .
   .
 Credits:
--  Brian Design (Trivia in funspace) \n
-https://www.youtube.com/watch?v=f4fB9Xg2JEY&ab_channel=BrianDesign
+-  Brian Design (Trivia in funspace)
+  https://www.youtube.com/watch?v=f4fB9Xg2JEY&ab_channel=BrianDesign
