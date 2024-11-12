@@ -15,8 +15,8 @@ Where's the API documentation?
 -I've included a pdf of the documentation in the folder but you could also visit https://documenter.getpostman.com/view/19981533/UVysxbAo in your browser.
 
 Client-side files:
--index.html
--style.css
+-  index.html
+-  style.css
 -app.js
 -index.js
 -tunes.html
