@@ -12,33 +12,33 @@ How to run the website?
 3. You can then paste this url (http://127.0.0.1:8080) in your browser to view the website.
 
 Where's the API documentation?
--I've included a pdf of the documentation in the folder but you could also visit https://documenter.getpostman.com/view/19981533/UVysxbAo in your browser.
+-  I've included a pdf of the documentation in the folder but you could also visit https://documenter.getpostman.com/view/19981533/UVysxbAo in your browser.
 
 Client-side files:
 -  index.html
 -  style.css
--app.js
--index.js
--tunes.html
--trivia.html
--trivia.css
--trivia.js
--highscores.html
--highscores.css
--highscores.js
--end.html
--end.js
--images folder
+-  app.js
+-  index.js
+-  tunes.html
+-  trivia.html
+-  trivia.css
+-  trivia.js
+-  highscores.html
+-  highscores.css
+-  highscores.js
+- end.html
+- end.js
+-  images folder
 
 Server-side files:
--server.js
--testapp.js
+-  server.js
+-  testapp.js
 
 Jest test: testapp.test.js
 
-.
-.
-.
+  .
+  .
+  .
 Credits:
--Brian Design (Trivia in funspace)
+-  Brian Design (Trivia in funspace) \n
 https://www.youtube.com/watch?v=f4fB9Xg2JEY&ab_channel=BrianDesign
