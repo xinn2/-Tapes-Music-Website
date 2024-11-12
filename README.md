@@ -35,6 +35,7 @@ This is a music website where you will find some information about a few artists
 -  testapp.js
 
 **Jest test**: testapp.test.js
+<br>
 .<br>
 .<br>
 .<br>
