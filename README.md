@@ -35,10 +35,9 @@ This is a music website where you will find some information about a few artists
 -  testapp.js
 
 **Jest test**: testapp.test.js
-
 .<br>
 .<br>
 .<br>
-**Credits:**
+**Credits:**<br>
 Brian Design (Trivia in funspace) <br>
 https://www.youtube.com/watch?v=f4fB9Xg2JEY&ab_channel=BrianDesign
